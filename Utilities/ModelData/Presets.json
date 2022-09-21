@@ -1,0 +1,14 @@
+[
+    {
+      "asyncFetch" : true,
+      "symbol" : "building.columns.fill",
+      "name" : "Disk Snapshot",
+      "command" : "df \/"
+    },
+    {
+        "asyncFetch" : true,
+        "symbol" : "globe.fill",
+        "name" : "Network Conditions at en0",
+        "command" : "ifconfig en0"
+    },
+]
